@@ -1,6 +1,6 @@
 {
   "name": "@rcorp/app.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Makes web apps closer to desktop apps.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rochacorp/app.js"
   }
 }
