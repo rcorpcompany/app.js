@@ -1,0 +1,14 @@
+{
+  "name": "@rcorp/app.js",
+  "version": "1.0.2",
+  "description": "Makes web apps closer to desktop apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josuel Rocha",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

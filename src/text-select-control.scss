@@ -1,0 +1,9 @@
+body {
+    cursor: default;
+    user-select: none;
+}
+
+.selectable {
+    cursor: initial;
+    user-select: text;
+}
